@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.match-list {
+  list-style-type: none;
+  background-color: #1e293b;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: 15px;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  padding: 8px;
+  width: 180px;
+  height: 400px;
+  text-align: center;
+}
+.competing-logo {
+  width: 110px;
+}
+.competing-team-name {
+  font-size: 20px;
+}
+.result {
+  font-size: 14px;
+}
+.matchStatus {
+  font-size: 18px;
+}
+.Won {
+  color: green;
+}
+.Lost {
+  color: Red;
+}

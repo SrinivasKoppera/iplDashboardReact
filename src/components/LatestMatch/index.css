@@ -1,0 +1,61 @@
+/* Write your CSS here */
+.latest-match-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  background-color: #1e293b;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  width: 100%;
+}
+.first-part {
+  width: 30%;
+}
+.team-name {
+  font-size: 30px;
+}
+.date {
+  font-size: 14px;
+}
+.venue {
+  font-size: 14px;
+}
+.result {
+  font-size: 14px;
+}
+.second-part {
+  width: 30%;
+  text-align: center;
+}
+.team-logo {
+  width: 140px;
+}
+.third-part {
+  width: 30%;
+  text-align: end;
+}
+.first-innings {
+  font-size: 16px;
+}
+.first-innings-name {
+  font-size: 12px;
+}
+.second-innings {
+  font-size: 16px;
+}
+.second-innings-name {
+  font-size: 12px;
+}
+.man-of-the-match {
+  font-size: 19px;
+}
+.man-of-the-match-name {
+  font-size: 14px;
+}
+.umpires {
+  font-size: 16px;
+}
+.umpires-name {
+  font-size: 14px;
+}
